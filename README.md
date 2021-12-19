@@ -1,5 +1,5 @@
 # juice landing page sample
 
-### some gsap animations sample
+### gsap animations sample
 
-[]("./ss.png")
+    ![image](ss.png)
