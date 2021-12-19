@@ -2,7 +2,7 @@
 
 ### gsap animations sample
 
-## vist deme
+## vist demo
 
 [demo](https://juice-landing-page.vercel.app/)
 
