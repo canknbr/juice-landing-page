@@ -2,4 +2,4 @@
 
 ### gsap animations sample
 
-    ![image](ss.png)
+    ![image](./ss.png)
